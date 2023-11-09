@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Gravagna",
+    "img": "https://www.gravagna.com.ar/wp-content/uploads/2020/10/logo-gravagna.png",
+    "descripcion": "Sofisticación artesanal en cada par, una marca que fusiona moda y tradición en zapatos.",
+    "path": "/marca/gravagna"
+  },
+  {
+    "id": 2,
+    "nombre": "Justa Osadia",
+    "img": "https://justaosadia.com/cdn/shop/files/jst_3673d74d-d29e-430d-adbc-be407c348339.png?v=1679579072&width=340",
+    "descripcion": "Diseño vanguardista y atrevido. Zapatos que desafían con audacia los límites de la moda femenina.",
+    "path": "/marca/justaosadia"
+  },
+  {
+    "id": 3,
+    "nombre": "Troncoso",
+    "img": "https://firebasestorage.googleapis.com/v0/b/maria-shoes-app.appspot.com/o/TRONCOSO%20(3).png?alt=media&token=43f40c41-a922-4d92-affe-54e8e25e8ed7",
+    "descripcion": "Un legado de estilo. Zapatos femeninos que capturan la esencia del encanto clásico y contemporáneo.",
+    "path": "/marca/troncoso"
+  }
+]
