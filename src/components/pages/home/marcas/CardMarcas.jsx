@@ -18,6 +18,7 @@ export const CardMarcas = ({ nombre, descripcion, img, path }) => {
             style={{ objectFit: "contain", padding: "20px" }}
           />
           <CardContent>
+            <h3>{nombre}</h3>
             <Typography variant="body2" color="text.secondary">
               {descripcion}
             </Typography>

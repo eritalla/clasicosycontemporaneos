@@ -14,7 +14,7 @@ export const ItemCard = ({ product }) => {
       >
         <img
           src={product.image}
-          style={{ width: "100%", borderRadius: "10px 10px 0 0" }}
+          style={{ width: "100%", borderRadius: "10px 10px 0 0", backgroundColor: "red"}}
           alt={product.title}
         />
         <div style={{ backgroundColor: "rgba(255, 255, 255, 0.3)" }}>

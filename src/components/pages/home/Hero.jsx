@@ -31,7 +31,7 @@ export const Hero = () => {
         Leidos y por leer
       </h1>
       <Link to={"/shop"}>
-        <Button variant="contained" color="secondary">
+        <Button variant="contained" style={{backgroundColor: "#1c1c1c"}}>
           Ver catalogo
         </Button>
       </Link>
